@@ -61,5 +61,5 @@ print( areaOneStdDev(mean, stdDev, N, C)) #calculates the area one standard devi
 
 n=5
 print( nStdDevArea(mean, stdDev, N, C, n) ) #calculates the area n standard deviations away. 
-print( errorFunction(mean, stdDev, N, C, 2)) #calculates the area on (-a,a)
+print( errorFunction(mean, stdDev, N, C, 2)) #calculates the area on (-a,a). As written, this calculates the area on (-2,2). 2 can be replaced with whatever a-value you want.
 
