@@ -1,0 +1,2 @@
+# NormalDistributionProject
+Solution
